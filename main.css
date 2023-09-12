@@ -1,0 +1,255 @@
+    .wrapper{
+    width: 1366px;
+    height: 751px;
+    background: #313A5F;
+     }
+
+     .wrapper_nav{
+        padding-top: 46px;
+        margin-left: 123px;
+        display: flex;
+        gap: 40px;
+     list-style: none;
+     color: #FFF;
+     font-family: Inter;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 500;
+     line-height: normal;
+     }
+     .wrapper_name{
+        padding-top: 124px;
+        margin-left: 123px;
+        color: #FFF;
+        font-family: Inter;
+        font-size: 74px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+     }
+
+     .wrapper_text{
+        padding-top: 40px;
+        margin-left: 123px;
+        color: #FFF;
+        text-align: justify;
+        font-family: Inter;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 136.295%; 
+     }
+
+     .wrapper_photo{
+        margin-top: -361px;
+        margin-left: 770px;
+        width: 475px;
+        height: 376px; 
+     }
+
+
+     .portfolio{
+        display: flex;
+        width: 1366px;
+        height: 751px;
+        padding-bottom: 0px;
+        flex-direction: column;
+        background: #F1F1F1; 
+     }
+
+     .portfolio_name{
+        margin-left: 123px;
+        color: #000;
+        font-family: Inter;
+        font-size: 74px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+     }
+     .portfolio_text{
+        margin-left: 123px;
+        color: #000;
+        font-family: Inter;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+     }
+        .portfolio_photo{
+            margin-left: 123px;
+            width: 570px;
+            height: 414px; 
+        }
+        .portfolio__text{
+            margin-top: -355px;
+            margin-left: 850px;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .text_portfolio{
+            border-bottom: 2px solid   #313A5F;;
+     
+            font-weight: normal; 
+            padding-bottom: 3px
+        }
+
+        .portfolio_btn{
+         cursor: pointer;
+         border: 2px solid #313A5F;
+            color: #FFF;
+            font-family: Inter;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+            border-radius: 44px;
+            background: #313A5F; 
+            height: 45px;
+            width: 176px;
+        }
+
+        .aboutmi{
+         width: 1366px;
+         height: 745px; 
+         background: #313A5F; 
+        }
+
+        .aboutmi_name{
+         padding-top: 50px;
+         margin-top: 2px;
+         margin-left: 123px;
+         color: #FFF;
+         font-family: Inter;
+         font-size: 74px;
+         font-style: normal;
+         font-weight: 500;
+         line-height: normal;
+        }
+
+        .aboutmi_text{
+         margin-top: 100px;
+         margin-left: 123px;
+         color: #FFF;
+         text-align: justify;
+         font-family: Inter;
+         font-size: 32px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: 136.295%;
+        }
+
+        .aboutmi_photo{
+         width: 475px;
+         margin-left: 768px;
+         margin-top: -361px;
+        }
+
+        .project{
+         height: 1050px;
+         display: flex;
+         width: 1366px;
+         padding-bottom: 0px;
+         flex-direction: column;
+         align-items: center;
+         gap: 150px;
+         background: #F1F1F1;
+        }
+
+        .project_name{
+         margin-left: 185px;
+         color: #000;
+         font-family: Inter;
+         font-size: 74px;
+         font-style: normal;
+         font-weight: 500;
+         line-height: normal;
+        }
+
+        .project_text{
+         margin-left: 150px;
+         width: 485px;
+         color: #000;
+         text-align: center;
+         font-family: Inter;
+         font-size: 32px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: normal;
+        }
+
+        .project_input{
+         margin-left: 45px;
+         display: flex;
+         width: 750px;
+         padding: 20px 0px 20px 40px;
+         align-items: center;
+         gap: 52px;
+         border-radius: 58px;
+         border: 2px solid #313A5F;
+         color: #A6A6A6;
+         font-family: Inter;
+         font-size: 24px;
+         font-style: normal;
+         font-weight: 500;
+         line-height: normal;
+        }
+
+        .project_btn{
+         margin-left: 65px;
+         margin-top: 35px;
+         display: flex;
+         width: 750px;
+         padding: 20px 40px;
+         justify-content: center;
+         align-items: center;
+         gap: 52px;
+         border-radius: 58px;
+         border: 2px solid #313A5F;
+         background: #313A5F;
+         color: #FFF;
+         font-family: Inter;
+         font-size: 24px;
+         font-style: normal;
+         font-weight: 500;
+         line-height: normal;
+         cursor: pointer; 
+        }
+
+        .project_text2{
+         margin-top: 50px;
+         margin-left: -247px;
+         color: #000;
+         text-align: center;
+         font-family: Inter;
+         font-size: 32px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: normal;
+        }
+
+
+        .project_nav_text{
+         margin-left: 200px;
+         display: inline-flex;
+         align-items: center;
+         gap: 155px;
+         list-style: none;
+         color: #000;
+         font-family: Inter;
+         font-size: 32px;
+         font-style: normal;
+         font-weight: 500;
+         line-height: normal;
+        }
+
+        .project_add{
+         margin-left: -198px;
+         margin-left: 45px;
+         color: #000;
+         font-family: Inter;
+         font-size: 20px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: normal;
+        }
